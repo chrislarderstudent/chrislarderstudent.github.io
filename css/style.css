@@ -1,0 +1,19 @@
+body {
+	background: #f4f1f4;
+}
+
+
+#title-box {
+	background: #90928D;
+	color: black;
+	border-radius: 25px;
+	padding: 25px;
+	}
+
+#title-img-box{
+	
+}
+
+.row {
+	margin-top: 10px;
+}
