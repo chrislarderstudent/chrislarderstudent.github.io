@@ -10,3 +10,8 @@ header {
 section {
   padding: 150px 0;
 }
+
+#profile-image {
+  text-align: center;
+  padding: auto;
+}
