@@ -1,23 +1,17 @@
-body {
-	background: #f4f1f4;
+/*!
+ * Start Bootstrap - Scrolling Nav (https://startbootstrap.com/template-overviews/scrolling-nav)
+ * Copyright 2013-2019 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-scrolling-nav/blob/master/LICENSE)
+ */
+header {
+  padding: 156px 0 100px;
 }
 
-
-#title-box {
-	background: #90928D;
-	color: black;
-	border-radius: 25px;
-	padding: 25px;
-	}
-
-#title-img-box{
-
+section {
+  padding: 150px 0;
 }
 
-.row {
-	margin-top: 10px;
-}
-
-#about-box {
-
+#profile-image {
+  text-align: center;
+  padding: auto;
 }
